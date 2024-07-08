@@ -1,0 +1,23 @@
+[
+  {
+    "id": "seat",
+    "name": { "str": "bucket seat" },
+    "copy-from": "seat",
+    "size": "850 L",
+    "type": "vehicle_part"
+  },
+  {
+    "id": "reclining_seat",
+    "copy-from": "reclining_seat",
+    "size": "950 L",
+    "name": { "str": "reclining bucket seat" },
+    "type": "vehicle_part"
+  },
+  {
+    "id": "seat_back",
+    "copy-from": "seat_back",
+    "size": "950 L",
+    "name": { "str": "bench seat" },
+    "type": "vehicle_part"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "bfs",
+    "name": "Big fucking seats",
+    "authors": [ "OromisElf" ],
+    "description": "These seats are getting ridiculous. All seats have 10x the capacity. (They are only meant for people, and their equipment at most)",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
