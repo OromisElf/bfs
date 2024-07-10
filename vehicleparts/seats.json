@@ -19,5 +19,19 @@
     "size": "950 L",
     "name": { "str": "bench seat" },
     "type": "vehicle_part"
+  },
+  {
+    "id": "seat_leather",
+    "copy-from": "seat_leather",
+    "name": { "str": "leather bucket seat" },
+    "type": "vehicle_part",
+    "size": "850 L"
+  },
+  {
+    "id": "seat_back_leather",
+    "copy-from": "seat_back_leather",
+    "name": { "str": "leather bench seat" },
+    "type": "vehicle_part",
+    "size": "950 L"
   }
 ]
