@@ -33,5 +33,12 @@
     "name": { "str": "leather bench seat" },
     "type": "vehicle_part",
     "size": "950 L"
+  },
+  {
+    "id": "reclining_seat_leather",
+    "copy-from": "reclining_seat_leather",
+    "name": { "str": "leather bench seat" },
+    "type": "vehicle_part",
+    "size": "950 L"
   }
 ]
